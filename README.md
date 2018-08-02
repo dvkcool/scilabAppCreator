@@ -17,11 +17,22 @@ A new Info.plist file which is created according to the version number, I create
 3. Run the main shell script, using `sudo sh createApp.sh`
 4. Answer the questions like build version and signing key.\
 
+_____________________________________________________________________________________________________________
+
 Congratulations you have your DMG created in outputs folder of the project.<br>
 You don't need to worry about anythig including the folder structure, the script takes care of everything and creates a nice Ready to Distribute dmg.
+
+## Video Demo
+https://youtu.be/VjRfisq-1pA
+
 
 ## Bugs/Doubts
 Feel free to open an issue or mail me at divyanshukumarg@gmail.com
 
 ## Demo output
-A compiled dmg for Scilab 6.0 can be found here: https://drive.google.com/file/d/1SGmaePTWco_IIsjr2os8XNKPACLUCNRi/view?usp=sharing">https://drive.google.com/file/d/1SGmaePTWco_IIsjr2os8XNKPACLUCNRi/view?usp=sharing
+A compiled dmg for Scilab 6.0 can be found here: https://drive.google.com/open?id=1Gl4dRngHxGvSTOHOg_U8GX4yJlSu4LZU
+
+_____________________________________________________________________________________________________________
+Happy Coding
+_____________________________________________________________________________________________________________
+Divyanshu Kumar
